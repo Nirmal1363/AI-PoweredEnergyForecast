@@ -12,7 +12,6 @@ The repository also explores insights from the research paper: *"Transformative 
 - [Results](#results)
 - [Visualizations](#visualizations)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This project implements machine learning models to forecast energy consumption in smart homes. The integration of AI and machine learning into smart grids enables accurate predictions, optimizing energy management and demand forecasting in real-time.
